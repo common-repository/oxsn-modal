@@ -1,0 +1,18 @@
+#fancybox-wrap, #fancybox-outer {
+	-webkit-box-sizing: initial;
+	-moz-box-sizing: initial;
+	box-sizing: initial;
+}
+
+#fancybox-content[style] {
+	width: 100%;
+	-webkit-box-sizing: initial;
+	-moz-box-sizing: initial;
+	box-sizing: initial;
+}
+
+.oxsn_fancybox_inline_content {
+	width: 100%;
+	max-width: 600px;
+	padding: 30px;
+}
